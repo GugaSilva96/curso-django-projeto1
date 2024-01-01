@@ -1,7 +1,8 @@
 pardechaves
 pardechaves.pub
 .pytest_cache
-# Django #
+
+# Django 
 *.log
 *.pot
 *.pyc
